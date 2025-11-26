@@ -69,7 +69,7 @@ bool Grid::IsCellEmpty(int row, int column)
 int Grid::ClearFullRows()
 {
     int completed = 0;
-    for
+    
     return 0;
 }
 
